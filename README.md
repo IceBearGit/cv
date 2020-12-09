@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+What will you need to do:
 
-Things you may want to cover:
+* Install or have Ruby version ruby 2.7.0p0
 
-* Ruby version
+* Install or have Gem Ruby on Rails 5.2.3
 
-* System dependencies
+* Download project files from Git (https://github.com/IceBearGit/cv)
 
-* Configuration
+* Next, you need to unpacking files and go to inside the folder "cv"
 
-* Database creation
+* Next execute follow text in command line: bin/rails server
 
-* Database initialization
+* After this you may open any browser and use link: http://localhost:3000/
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
